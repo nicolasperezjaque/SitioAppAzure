@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicolas Perez\\Documents\\webPlatzi\\SitioAppAzure\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectUniqueName": "C:\\Users\\Nicolas Perez\\Documents\\webPlatzi\\SitioAppAzure\\PlatziWebSite.csproj",
       "projectName": "PlatziWebSite",
-      "projectPath": "C:\\Users\\Nicolas Perez\\Documents\\webPlatzi\\SitioAppAzure\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectPath": "C:\\Users\\Nicolas Perez\\Documents\\webPlatzi\\SitioAppAzure\\PlatziWebSite.csproj",
       "packagesPath": "C:\\Users\\Nicolas Perez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicolas Perez\\Documents\\webPlatzi\\SitioAppAzure\\PlatziWebSite\\obj\\",
+      "outputPath": "C:\\Users\\Nicolas Perez\\Documents\\webPlatzi\\SitioAppAzure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nicolas Perez\\AppData\\Roaming\\NuGet\\NuGet.Config",
